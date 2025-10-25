@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Festival Directory | Texas Music Atlas</title>
+    <meta
+      name="description"
+      content="Search songwriter festivals across Texas for 2025–2026. Filter by year, explore daily schedules, and jump into detail pages."
+    />
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-wrapper">
+        <a class="brand" href="/events/">
+          <span>🎸</span>
+          Texas Music Atlas
+        </a>
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a href="/events/" aria-current="page">Directory</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="directory-header">
+        <h1>Texas Music Atlas Festivals Directory</h1>
+        <p class="muted">
+          Browse upcoming showcases with live search, filters, and a calendar view. Toggle past events when you need historical context.
+        </p>
+        <noscript>You need JavaScript enabled to use the festival directory.</noscript>
+      </section>
+
+      <section>
+        <div class="filters" role="search">
+          <div class="search-field">
+            <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24">
+              <path
+                fill="currentColor"
+                d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5Zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14Z"
+              />
+            </svg>
+            <label class="sr-only" for="search">Search festivals</label>
+            <input id="search" type="search" placeholder="Search by festival, city, venue, or description" autocomplete="off" />
+          </div>
+
+          <div class="select">
+            <label class="sr-only" for="year-filter">Filter by year</label>
+            <select id="year-filter">
+              <option value="all" selected>All years</option>
+              <option value="2025">2025 only</option>
+              <option value="2026">2026 only</option>
+            </select>
+          </div>
+
+          <div class="view-toggle" role="group" aria-label="Toggle between list and calendar views">
+            <button type="button" id="list-toggle" aria-pressed="true">List view</button>
+            <button type="button" id="calendar-toggle" aria-pressed="false">Calendar view</button>
+          </div>
+
+          <label class="toggle" for="show-past">
+            <input type="checkbox" id="show-past" />
+            <span class="toggle-slider" aria-hidden="true"></span>
+            <span class="toggle-label">Show past events</span>
+          </label>
+        </div>
+      </section>
+
+      <section class="list-view" id="list-view" aria-live="polite" data-visible="true"></section>
+
+      <section class="calendar-view" id="calendar-view" hidden>
+        <div class="calendar-controls">
+          <h2 style="margin: 0">Calendar explorer</h2>
+          <div class="select" style="min-width: 220px">
+            <label class="sr-only" for="month-select">Choose a month</label>
+            <select id="month-select"></select>
+          </div>
+        </div>
+        <div class="calendar-grid" id="calendar-grid" role="grid" aria-labelledby="month-select"></div>
+        <div class="day-detail" id="day-detail" hidden>
+          <h3 id="day-detail-heading"></h3>
+          <p class="muted">Tap another date to update this panel.</p>
+          <ul id="day-detail-list"></ul>
+        </div>
+      </section>
+
+      <footer class="footer">
+        Directory powered by <code>data/texas_songwriter_festivals_2025_2026.json</code> (licensed CC BY 4.0). View an event detail at
+        <a href="./event.html#dripping-springs-songwriters-festival">Dripping Springs Songwriters Festival</a>.
+      </footer>
+    </main>
+
+    <script type="module" src="../assets/js/list-page.js"></script>
+  </body>
+</html>

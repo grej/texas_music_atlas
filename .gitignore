@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# playwright artifacts
+test-results/
+test-report/
+playwright-report/
+playwright/.cache/
+
+# build outputs
+dist/
+build/
+out/
+
+# logs and env
+*.log
+.env
+.env.*
+
+# system files
+.DS_Store
+Thumbs.db

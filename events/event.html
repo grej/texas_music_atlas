@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Festival Detail | Texas Music Atlas</title>
+    <meta
+      name="description"
+      content="Dive into a specific Texas songwriter festival with dates, venue info, cost notes, and quick links."
+    />
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-wrapper">
+        <a class="brand" href="/events/">
+          <span>🎸</span>
+          Texas Music Atlas
+        </a>
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a href="/events/">Directory</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <a class="back-link" href="./">&larr; Back to directory</a>
+      <article class="detail-hero" id="detail-hero">
+        <h1 id="festival-name">Loading festival...</h1>
+        <p class="muted" id="festival-description"></p>
+        <div class="meta-grid">
+          <div class="meta-item">
+            <span>Next scheduled</span>
+            <strong id="festival-dates">TBD</strong>
+          </div>
+          <div class="meta-item">
+            <span>Location</span>
+            <strong id="festival-location">Loading location</strong>
+          </div>
+          <div class="meta-item">
+            <span>Year</span>
+            <strong id="festival-year">—</strong>
+          </div>
+        </div>
+        <div class="instance-switcher">
+          <p class="muted" id="instance-count"></p>
+          <div class="select" style="min-width: 220px">
+            <label class="sr-only" for="instance-select">Choose a year</label>
+            <select id="instance-select"></select>
+          </div>
+        </div>
+        <div class="detail-links" id="festival-links"></div>
+      </article>
+
+      <section class="detail-content">
+        <article class="detail-card">
+          <h2>Festival overview</h2>
+          <p id="festival-overview">
+            This view loads full festival details once the JSON data finishes loading. If nothing appears, verify the slug in the URL hash.
+          </p>
+        </article>
+
+        <div class="detail-grid">
+          <div class="detail-grid-item">
+            <span>Venue</span>
+            <strong id="festival-venue">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>Address</span>
+            <strong id="festival-address">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>Date range</span>
+            <strong id="festival-range">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>Cost notes</span>
+            <strong id="festival-cost">—</strong>
+          </div>
+        </div>
+        <p class="notice" id="festival-notice" hidden></p>
+      </section>
+
+      <footer class="footer">
+        Shareable link pattern: <code>/events/event.html#festival-slug</code>. Keep slugs aligned with the data source.
+      </footer>
+    </main>
+
+    <script type="module" src="../assets/js/detail-page.js"></script>
+  </body>
+</html>

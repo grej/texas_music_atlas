@@ -1,0 +1,704 @@
+{
+  "generated_at": "2025-10-25",
+  "timezone": "America/New_York",
+  "scope": "Texas singer-songwriter-focused & adjacent festivals (remainder of 2025 and all of 2026), incl. select college-hosted showcases",
+  "events": [
+    {
+      "name": "Dripping Springs Songwriters Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-10-17",
+          "end_date": "2025-10-19",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Historic Downtown Dripping Springs (multiple listening-room venues)",
+          "address": "511 Mercer St, Dripping Springs, TX 78620 (festival spans multiple downtown venues)",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Historic%20Downtown%20Dripping%20Springs%2C%20TX",
+          "website_url": "https://www.destinationdrippingsprings.com/p/events/dripping-springs-songwriters-festival",
+          "description": "35+ songwriters across intimate stages; Nashville-style in-the-round song swaps; listening-room focus.",
+          "cost_notes": "Downtown showcases are free; Saturday headliners concert ticketed."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Historic Downtown Dripping Springs",
+          "address": "511 Mercer St, Dripping Springs, TX 78620",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Historic%20Downtown%20Dripping%20Springs%2C%20TX",
+          "website_url": "https://www.destinationdrippingsprings.com/p/events/dripping-springs-songwriters-festival",
+          "description": "Annual 3-day songwriter festival in intimate venues.",
+          "cost_notes": "Historically free downtown showcases; headliner show ticketed."
+        }
+      ]
+    },
+    {
+      "name": "Bryan TX Songwriter Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-10-24",
+          "end_date": "2025-10-25",
+          "city": "Bryan, TX",
+          "venue_name": "Historic Downtown Bryan (multiple venues)",
+          "address": "Downtown Bryan, Bryan, TX 77803",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Historic%20Downtown%20Bryan%2C%20Bryan%2C%20TX%2077803",
+          "website_url": "https://bryantxsongwriterfestival.com/",
+          "description": "Two-day festival; 20+ singer-songwriters across five venues; free main stage + VIP-access shows.",
+          "cost_notes": "Free outdoor stage; VIP wristband options for additional venues."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Bryan, TX",
+          "venue_name": "Historic Downtown Bryan",
+          "address": "Downtown Bryan, Bryan, TX 77803",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Historic%20Downtown%20Bryan%2C%20Bryan%2C%20TX%2077803",
+          "website_url": "https://bryantxsongwriterfestival.com/",
+          "description": "Anticipated return with multi-venue songwriter rounds.",
+          "cost_notes": "Expected free main stage + VIP wristbands."
+        }
+      ]
+    },
+    {
+      "name": "Rockport Songwriter Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-05",
+          "end_date": "2025-11-09",
+          "city": "Fulton / Rockport, TX",
+          "venue_name": "Harbor Tent at Charlotte Plummers",
+          "address": "202 N Fulton Beach Rd, Fulton, TX 78358",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=202%20N%20Fulton%20Beach%20Rd%2C%20Fulton%2C%20TX%2078358",
+          "website_url": "https://rockportsongwriterassociation.com/",
+          "description": "Coastal listening-room style festival featuring noted Texas songwriters and emerging artists.",
+          "cost_notes": "Ticketed festival with GA/VIP pass options."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fulton / Rockport, TX",
+          "venue_name": "Harbor Tent (Rockport/Fulton area)",
+          "address": "202 N Fulton Beach Rd, Fulton, TX 78358",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=202%20N%20Fulton%20Beach%20Rd%2C%20Fulton%2C%20TX%2078358",
+          "website_url": "https://rockportsongwriterassociation.com/",
+          "description": "Expected 5th annual early-November edition.",
+          "cost_notes": "Ticketed; details TBA."
+        }
+      ]
+    },
+    {
+      "name": "Fort Worth Songwriter Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-06",
+          "end_date": "2025-11-09",
+          "city": "Fort Worth, TX",
+          "venue_name": "Southside Preservation Hall & Rose Chapel + afterparties",
+          "address": "1519 Lipscomb St, Fort Worth, TX 76104",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1519%20Lipscomb%20St%2C%20Fort%20Worth%2C%20TX%2076104",
+          "website_url": "https://fwsongwriterfestival.org/home",
+          "description": "Songwriter-centric fest with 50+ artists, rounds, workshops, and late-night jams.",
+          "cost_notes": "Single-day, multi-day, and VIP passes available."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fort Worth, TX",
+          "venue_name": "Southside Preservation Hall & Rose Chapel",
+          "address": "1519 Lipscomb St, Fort Worth, TX 76104",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1519%20Lipscomb%20St%2C%20Fort%20Worth%2C%20TX%2076104",
+          "website_url": "https://fwsongwriterfestival.org/",
+          "description": "Anticipated return; songwriter rounds and community events.",
+          "cost_notes": "Passes expected similar to 2025."
+        }
+      ]
+    },
+    {
+      "name": "Old Quarter Songwriter Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-13",
+          "end_date": "2025-11-15",
+          "city": "Galveston, TX",
+          "venue_name": "Old Quarter Acoustic Café + additional downtown venues",
+          "address": "413 20th St, Galveston, TX 77550",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=413%2020th%20St%2C%20Galveston%2C%20TX%2077550",
+          "website_url": "https://oldquarteracousticcafe.com/about-the-festival",
+          "description": "Three days, ~30+ songwriters, multiple listening-room stages in Historic Downtown Galveston.",
+          "cost_notes": "Limited VIP, weekend GA and single-day passes."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Galveston, TX",
+          "venue_name": "Old Quarter Acoustic Café + downtown venues",
+          "address": "413 20th St, Galveston, TX 77550",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=413%2020th%20St%2C%20Galveston%2C%20TX%2077550",
+          "website_url": "https://oldquarteracousticcafe.com/about-the-festival",
+          "description": "Annual songwriter-in-the-round weekend; intimate rooms.",
+          "cost_notes": "VIP/GA tiers expected."
+        }
+      ]
+    },
+    {
+      "name": "Songwriters Festival at The Woodlands Resort (New Year’s)",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-12-29",
+          "end_date": "2026-01-01",
+          "city": "The Woodlands, TX",
+          "venue_name": "The Woodlands Resort",
+          "address": "2301 N Millbend Dr, The Woodlands, TX 77380",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2301%20N%20Millbend%20Dr%2C%20The%20Woodlands%2C%20TX%2077380",
+          "website_url": "https://www.woodlandsresort.com/things-to-do/songwriters-festival/",
+          "description": "3-day, all-inclusive resort festival spotlighting hit songwriters in intimate settings.",
+          "cost_notes": "All-inclusive packages (lodging + F&B + performances)."
+        },
+        {
+          "year": 2026,
+          "start_date": "2026-12-29",
+          "end_date": "2027-01-01",
+          "city": "The Woodlands, TX",
+          "venue_name": "The Woodlands Resort",
+          "address": "2301 N Millbend Dr, The Woodlands, TX 77380",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2301%20N%20Millbend%20Dr%2C%20The%20Woodlands%2C%20TX%2077380",
+          "website_url": "https://www.woodlandsresort.com/things-to-do/songwriters-festival/",
+          "description": "Likely recurring New Year’s songwriter retreat (pending official 2026 announcement).",
+          "cost_notes": "All-inclusive packages (details TBA)."
+        }
+      ]
+    },
+    {
+      "name": "Corpus Christi Songwriters Festival",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-02-13",
+          "end_date": "2026-02-15",
+          "city": "Corpus Christi, TX",
+          "venue_name": "Multiple downtown Corpus Christi venues",
+          "address": "Downtown Corpus Christi, Corpus Christi, TX",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Corpus%20Christi",
+          "website_url": "https://ccsongwriters.com/the-festival/",
+          "description": "Three-day festival + music conference + awards; songwriter rounds, workshops, and showcases.",
+          "cost_notes": "Ticketed; typical weekend/GA options."
+        }
+      ]
+    },
+    {
+      "name": "Old Settler’s Music Festival",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-04-17",
+          "end_date": "2026-04-19",
+          "city": "Dale, TX",
+          "venue_name": "Old Settler’s Music Festival Grounds",
+          "address": "1616 FM 3158, Dale, TX 78616",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1616%20FM%203158%2C%20Dale%2C%20TX%2078616",
+          "website_url": "https://oldsettlersmusicfest.org/",
+          "description": "Long-running Americana/folk/roots camping festival with workshops and community jams.",
+          "cost_notes": "Multi-day camping & day passes; various tiers."
+        }
+      ]
+    },
+    {
+      "name": "Kerrville Folk Festival",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Kerrville, TX",
+          "venue_name": "Quiet Valley Ranch",
+          "address": "3876 Medina Hwy, Kerrville, TX 78028",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3876%20Medina%20Hwy%2C%20Kerrville%2C%20TX%2078028",
+          "website_url": "https://kerrvillefolkfestival.org",
+          "description": "Flagship folk/singer-songwriter gathering with concerts, song circles, workshops, and the New Folk competition.",
+          "cost_notes": "Multi-day passes and camping options; 2026 schedule pending."
+        }
+      ]
+    },
+    {
+      "name": "Dallas Songwriter Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-08-31",
+          "end_date": "2025-08-31",
+          "city": "Dallas, TX",
+          "venue_name": "Zounds Sounds B-Side",
+          "address": "10050 Shoreview Rd, Dallas, TX 75238",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10050%20Shoreview%20Rd%2C%20Dallas%2C%20TX%2075238",
+          "website_url": "https://www.zoundssoundsbside.org/",
+          "description": "One-day showcase highlighting local singer-songwriters in an intimate ‘song-swap’ spirit.",
+          "cost_notes": "GA approximately $20 in 2025."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dallas, TX",
+          "venue_name": "Zounds Sounds B-Side (anticipated) or similar Dallas venue",
+          "address": "10050 Shoreview Rd, Dallas, TX 75238",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10050%20Shoreview%20Rd%2C%20Dallas%2C%20TX%2075238",
+          "website_url": "https://www.zoundssoundsbside.org/",
+          "description": "Anticipated Labor Day-adjacent return; intimate local songwriter focus.",
+          "cost_notes": "TBD; past GA ~$20."
+        }
+      ]
+    },
+    {
+      "name": "Texas Women Songwriters Festival",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-09-19",
+          "end_date": "2025-09-21",
+          "city": "Lockhart, TX",
+          "venue_name": "Historic Downtown Lockhart (multiple venues)",
+          "address": "Downtown Lockhart, Lockhart, TX 78644",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Lockhart%2C%20TX%2078644",
+          "website_url": "https://www.texaswomensongwritersfestival.com/",
+          "description": "Three-day festival of song-swaps across multiple venues featuring Texas women singer-songwriters.",
+          "cost_notes": "Ticketed evening headliners; some daytime song-swaps free/low-cost."
+        },
+        {
+          "year": 2026,
+          "start_date": "2026-09-18",
+          "end_date": "2026-09-20",
+          "city": "Lockhart, TX",
+          "venue_name": "Historic Downtown Lockhart",
+          "address": "Downtown Lockhart, Lockhart, TX 78644",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Lockhart%2C%20TX%2078644",
+          "website_url": "https://www.texaswomensongwritersfestival.com/",
+          "description": "Second annual weekend of multi-venue songwriter rounds.",
+          "cost_notes": "Details TBA."
+        }
+      ]
+    },
+    {
+      "name": "Texas Songwriter U (TxSU) Workshop",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-02-01",
+          "end_date": "2026-02-04",
+          "city": "Austin, TX (venue TBA)",
+          "venue_name": "Texas Songwriter U Workshop Venues",
+          "address": "TBA",
+          "google_maps_url": "TBA",
+          "website_url": "https://texassongwriteru.com/",
+          "description": "3‑day songwriting workshop & retreat; craft, mentorship and performance by singer‑songwriters.",
+          "cost_notes": "Admission by selection; costs and lodging details TBA."
+        }
+      ]
+    },
+    {
+      "name": "Lone Star Luau",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-03-27",
+          "end_date": "2025-03-30",
+          "city": "Montgomery / Lake Conroe, TX",
+          "venue_name": "Margaritaville Lake Resort Lake Conroe",
+          "address": "600 Margaritaville Pkwy, Montgomery, TX 77356",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=600%20Margaritaville%20Pkwy%2C%20Montgomery%2C%20TX%2077356",
+          "website_url": "https://www.lonestarluau.com/",
+          "description": "4‑day festival featuring Texas country, Trop Rock and Nashville songwriters.",
+          "cost_notes": "General admission starts around $225 (2025 reference)."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Montgomery / Lake Conroe, TX",
+          "venue_name": "Margaritaville Lake Resort Lake Conroe",
+          "address": "600 Margaritaville Pkwy, Montgomery, TX 77356",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=600%20Margaritaville%20Pkwy%2C%20Montgomery%2C%20TX%2077356",
+          "website_url": "https://www.lonestarluau.com/",
+          "description": "Expected next edition; check official date announcement.",
+          "cost_notes": "Ticketing structure TBD."
+        }
+      ]
+    },
+    {
+      "name": "Back to the Basics / Luckenbach (Wildcard)",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Luckenbach, TX",
+          "venue_name": "Luckenbach Dance Hall & Outdoor Stage",
+          "address": "412 Luckenbach Town Loop, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=412%20Luckenbach%20Town%20Loop%2C%20Fredericksburg%2C%20TX%2078624",
+          "website_url": "https://www.luckenbachtexas.com",
+          "description": "Legendary venue with frequent singer‑songwriter & Texas roots shows; occasional festival‑style days.",
+          "cost_notes": "Varies by show; many free outdoor events; dance hall shows ticketed."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Luckenbach, TX",
+          "venue_name": "Luckenbach Dance Hall & Outdoor Stage",
+          "address": "412 Luckenbach Town Loop, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=412%20Luckenbach%20Town%20Loop%2C%20Fredericksburg%2C%20TX%2078624",
+          "website_url": "https://www.luckenbachtexas.com",
+          "description": "Wildcard entry; monitor calendar for songwriter‑centric festivals or round‑ups.",
+          "cost_notes": "TBD."
+        }
+      ]
+    },
+    {
+      "name": "Two Step Inn Festival – Georgetown (adjacent)",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-04-05",
+          "end_date": "2025-04-06",
+          "city": "Georgetown, TX",
+          "venue_name": "San Gabriel Park",
+          "address": "445 E University Ave, Georgetown, TX 78626",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=445%20E%20University%20Ave%2C%20Georgetown%2C%20TX%2078626",
+          "website_url": "https://www.twostepinn.com/",
+          "description": "Two‑day outdoor festival with country/honky‑tonk and Texas songwriters; broader than songwriter‑only but adjacent.",
+          "cost_notes": "2‑Day GA and 1‑Day GA tiers; pricing varies by year."
+        },
+        {
+          "year": 2026,
+          "start_date": "2026-04-18",
+          "end_date": "2026-04-19",
+          "city": "Georgetown, TX",
+          "venue_name": "San Gabriel Park",
+          "address": "445 E University Ave, Georgetown, TX 78626",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=445%20E%20University%20Ave%2C%20Georgetown%2C%20TX%2078626",
+          "website_url": "https://www.twostepinn.com/",
+          "description": "Next edition of Two Step Inn; strong Texas country/songwriter roster alongside broader acts.",
+          "cost_notes": "GA, GA+, VIP, Platinum; exact pricing TBA."
+        }
+      ]
+    },
+    {
+      "name": "Texas Music Revolution (TMR30)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-06-05",
+          "end_date": "2026-06-06",
+          "city": "McKinney, TX",
+          "venue_name": "Downtown Historic McKinney Square",
+          "address": "111 N Tennessee St, McKinney, TX 75069",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=111%20N%20Tennessee%20St%2C%20McKinney%2C%20TX%2075069",
+          "website_url": "https://tmrfest.com/",
+          "description": "Two-day Texas/Red Dirt, Americana & songwriter-heavy street festival curated by KHYI 95.3.",
+          "cost_notes": "GA/VIP tiers; 2026 tickets via Prekindle."
+        }
+      ]
+    },
+    {
+      "name": "Larry Joe Taylor’s Texas Music Festival (LJT Fest)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-04-20",
+          "end_date": "2026-04-25",
+          "city": "Stephenville, TX",
+          "venue_name": "Melody Mountain Ranch",
+          "address": "1290 Private Rd 707, Stephenville, TX 76401",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1290%20Private%20Rd%20707%2C%20Stephenville%2C%20TX%2076401",
+          "website_url": "https://ljtfest.com/",
+          "description": "Week-long Texas/Red Dirt & songwriter-centric campout with dozens of artists, jams, and chili cook-off.",
+          "cost_notes": "Camping + GA/VIP passes; on-sale details via organizers."
+        }
+      ]
+    },
+    {
+      "name": "Luck Reunion (Willie Nelson’s Luck, TX)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "2026-03-12",
+          "end_date": "2026-03-12",
+          "city": "Spicewood, TX",
+          "venue_name": "Luck Ranch",
+          "address": "1100 Bee Creek Rd, Spicewood, TX 78669 (general area)",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luck%20Ranch%2C%20Spicewood%2C%20TX",
+          "website_url": "https://luckpresents.com/",
+          "description": "Curated day festival during SXSW week; roots/Americana & songwriter bills in intimate historic ‘Luck, TX.’",
+          "cost_notes": "Very limited tickets; lottery/bundles common."
+        }
+      ]
+    },
+    {
+      "name": "Gruene Music & Wine Festival (adjacent, Americana-leaning)",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-10-09",
+          "end_date": "2025-10-12",
+          "city": "New Braunfels, TX",
+          "venue_name": "Gruene Historic District & Gruene Hall",
+          "address": "1281 Gruene Rd, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1281%20Gruene%20Rd%2C%20New%20Braunfels%2C%20TX%2078130",
+          "website_url": "https://gruenemusicandwinefest.org/",
+          "description": "Multi-day Hill Country tradition featuring Texas/Americana artists, tastings, and ‘Stars & Guitars’ showcases.",
+          "cost_notes": "Event-by-event tickets; premium dinner/show packages priced separately."
+        },
+        {
+          "year": 2026,
+          "start_date": "2026-10-08",
+          "end_date": "2026-10-11",
+          "city": "New Braunfels, TX",
+          "venue_name": "Gruene Historic District & Gruene Hall",
+          "address": "1281 Gruene Rd, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1281%20Gruene%20Rd%2C%20New%20Braunfels%2C%20TX%2078130",
+          "website_url": "https://gruenemusicandwinefest.org/",
+          "description": "Annual Texas wine + Americana music weekend; strong singer-songwriter presence at Gruene Hall.",
+          "cost_notes": "Ticketed; tiers TBA closer to dates."
+        }
+      ]
+    },
+    {
+      "name": "Conroe Crossroads (adjacent multi-venue fest)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Conroe, TX",
+          "venue_name": "Multiple venues in Downtown Conroe",
+          "address": "Downtown Conroe, Conroe, TX 77301",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Conroe%2C%20TX%2077301",
+          "website_url": "https://www.visitconroe.com/events/festivals-and-fairs/conroe-crossroads-music-festival/",
+          "description": "Annual 4-day downtown festival (~40 shows) across genres with Americana/singer-songwriter sets.",
+          "cost_notes": "Wristbands or per-show tickets; 2026 details TBD."
+        }
+      ]
+    },
+    {
+      "name": "UT Austin – Cactus Cafe Songwriters’ Showcase (college-hosted series)",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-14",
+          "end_date": "2025-11-14",
+          "city": "Austin, TX",
+          "venue_name": "Cactus Cafe (Texas Union)",
+          "address": "Texas Union, 2308 Whitis Ave, Austin, TX 78712",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cactus%20Cafe%2C%20Texas%20Union%2C%20Austin%20TX%2078712",
+          "website_url": "https://universityunions.utexas.edu/events/autumn-songwriter-showcase-hosted-jake-farr",
+          "description": "University-programmed songwriter showcase in famed listening room on UT campus.",
+          "cost_notes": "Low-cost ticketed campus event."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Austin, TX",
+          "venue_name": "Cactus Cafe (Texas Union)",
+          "address": "Texas Union, 2308 Whitis Ave, Austin, TX 78712",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cactus%20Cafe%2C%20Texas%20Union%2C%20Austin%20TX%2078712",
+          "website_url": "https://universityunions.utexas.edu/events/summer-songwriters-showcase",
+          "description": "Recurring UT‑hosted Summer/Autumn songwriter showcases; add date once posted.",
+          "cost_notes": "Typically ticketed, student-friendly pricing."
+        }
+      ]
+    },
+    {
+      "name": "UNT – Songwriters Showcase (college-hosted series)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Denton, TX",
+          "venue_name": "University Union (Bruzzy’s Patio / Union Rooftop)",
+          "address": "1155 Union Cir, Denton, TX 76203",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1155%20Union%20Cir%2C%20Denton%2C%20TX%2076203",
+          "website_url": "https://calendar.unt.edu/event/songwriters-showcase",
+          "description": "Student/college songwriter showcase series; schedule varies by semester.",
+          "cost_notes": "Often free campus event."
+        }
+      ]
+    },
+    {
+      "name": "South Plains College – Summer Songwriting Showcase (college-hosted)",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Levelland, TX",
+          "venue_name": "Tom T. Hall Production Studio (SPC Creative Arts)",
+          "address": "1401 S College Ave, Levelland, TX 79336",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1401%20S%20College%20Ave%2C%20Levelland%2C%20TX%2079336",
+          "website_url": "https://www.southplainscollege.edu/newsroom/songwriting2024.php",
+          "description": "Annual college-run songwriting workshop/showcase; add 2026 date when posted.",
+          "cost_notes": "Historically ticketed/registration-based workshop day."
+        }
+      ]
+    },
+    {
+      "generated_at": "2025-10-26",
+      "timezone": "America/New_York",
+      "scope": "Texas singer-songwriter-focused & adjacent festivals (remainder of 2025 and all of 2026), incl. select college-hosted showcases",
+      "events": [
+        {
+          "name": "Baylor Songwriting Retreat",
+          "instances": [
+            {
+              "year": 2026,
+              "start_date": "TBD",
+              "end_date": "TBD",
+              "city": "Waco, TX",
+              "venue_name": "Baylor University Campus",
+              "address": "110 S 3rd St, Waco, TX 76701",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Baylor%20University%2C%20Waco%20TX",
+              "website_url": "https://ccms.music.baylor.edu/programs/songwriting-retreat",
+              "description": "Songwriting retreat for Baylor students and staff to collaborate on new songs based on Scripture.",
+              "cost_notes": "Open to Baylor community; details TBA."
+            }
+          ]
+        },
+        {
+          "name": "Texas Music Cafe Songwriter Showcase",
+          "instances": [
+            {
+              "year": 2025,
+              "start_date": "2025-09-18",
+              "end_date": "2025-09-18",
+              "city": "Waco, TX",
+              "venue_name": "Texas Music Cafe",
+              "address": "110 S 6th St, Waco, TX 76701",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=110%20S%206th%20St%2C%20Waco%2C%20TX%2076701",
+              "website_url": "https://www.facebook.com/TexasMusicCafe",
+              "description": "Monthly songwriter showcase featuring local and regional talent; hosted by Jon Holt.",
+              "cost_notes": "Free (suggested $10 donation)."
+            },
+            {
+              "year": 2026,
+              "start_date": "TBD",
+              "end_date": "TBD",
+              "city": "Waco, TX",
+              "venue_name": "Texas Music Cafe",
+              "address": "110 S 6th St, Waco, TX 76701",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=110%20S%206th%20St%2C%20Waco%2C%20TX%2076701",
+              "website_url": "https://www.facebook.com/TexasMusicCafe",
+              "description": "Recurring monthly songwriter showcase; check venue calendar for 2026 dates.",
+              "cost_notes": "Historically free with suggested donation."
+            }
+          ]
+        },
+        {
+          "name": "Blanco River Songwriter Festival",
+          "instances": [
+            {
+              "year": 2025,
+              "start_date": "2025-04-26",
+              "end_date": "2025-04-26",
+              "city": "Brenham, TX",
+              "venue_name": "TBD",
+              "address": "TBD",
+              "google_maps_url": "TBD",
+              "website_url": "TBD",
+              "description": "9th annual festival featuring songwriter Tip Jar (trio with Bill Small).",
+              "cost_notes": "Ticketed; details TBA."
+            }
+          ]
+        },
+        {
+          "name": "Keith Sykes Songwriter Festival",
+          "instances": [
+            {
+              "year": 2025,
+              "start_date": "2025-10-23",
+              "end_date": "2025-10-25",
+              "city": "Stephenville, TX",
+              "venue_name": "Melody Mountain Ranch",
+              "address": "1290 Private Rd 707, Stephenville, TX 76401",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1290%20Private%20Rd%20707%2C%20Stephenville%2C%20TX%2076401",
+              "website_url": "https://www.bandsintown.com/f/191751",
+              "description": "Annual songwriter festival at Melody Mountain Ranch.",
+              "cost_notes": "Ticketed; details TBA."
+            },
+            {
+              "year": 2026,
+              "start_date": "TBD",
+              "end_date": "TBD",
+              "city": "Stephenville, TX",
+              "venue_name": "Melody Mountain Ranch",
+              "address": "1290 Private Rd 707, Stephenville, TX 76401",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1290%20Private%20Rd%20707%2C%20Stephenville%2C%20TX%2076401",
+              "website_url": "https://www.bandsintown.com/f/191751",
+              "description": "Anticipated return of the annual songwriter festival.",
+              "cost_notes": "Ticketing details TBA."
+            }
+          ]
+        },
+        {
+          "name": "Texas Songwriters Hall of Fame Awards",
+          "instances": [
+            {
+              "year": 2026,
+              "start_date": "2026-02-21",
+              "end_date": "2026-02-21",
+              "city": "Austin, TX",
+              "venue_name": "ACL Live at The Moody Theater",
+              "address": "310 Willie Nelson Blvd, Austin, TX 78701",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=310%20Willie%20Nelson%20Blvd%2C%20Austin%2C%20TX%2078701",
+              "website_url": "https://www.acllive.com/event/2026-02-21-2026-texas-songwriters-hall-of-fame-awards-at-7-30-pm",
+              "description": "Awards show celebrating inductees into the Texas Songwriters Hall of Fame.",
+              "cost_notes": "Ticketed; details TBA closer to event."
+            }
+          ]
+        },
+        {
+          "name": "West Sandy Creek Winery Songwriter Showcase",
+          "instances": [
+            {
+              "year": 2025,
+              "start_date": "2025-05-02",
+              "end_date": "2025-05-02",
+              "city": "Brenham, TX",
+              "venue_name": "West Sandy Creek Winery",
+              "address": "TBD",
+              "google_maps_url": "TBD",
+              "website_url": "https://www.wscwinery.com/2025/04/24/special-music-event-texas-songwriter-showcase-may-2",
+              "description": "Songwriter showcase featuring Greg Day, Gabe Wootten, and Jacob Furr.",
+              "cost_notes": "Ticketed; details on winery website."
+            }
+          ]
+        },
+        {
+          "name": "Texas A&M Century Singers Showcase",
+          "instances": [
+            {
+              "year": 2025,
+              "start_date": "2025-11-08",
+              "end_date": "2025-11-08",
+              "city": "Bryan, TX",
+              "venue_name": "506 East 28th Street",
+              "address": "506 E 28th St, Bryan, TX 77803",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=506%20E%2028th%20St%2C%20Bryan%2C%20TX%2077803",
+              "website_url": "https://www.instagram.com/p/DQFhE3zEbnR",
+              "description": "Texas A&M University Century Singers performance showcase.",
+              "cost_notes": "Ticketed; details TBA."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tx_music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "/Users/greg/miniconda3/envs/tx_music/bin/python -m http.server 4173 --bind 127.0.0.1",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
