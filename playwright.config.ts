@@ -18,11 +18,10 @@ export default defineConfig({
     video: "retain-on-failure",
   },
   webServer: {
-    command: `${PYTHON} -m http.server ${PORT} --bind 127.0.0.1`,
+    command: `${PYTHON} -m http.server ${PORT} --bind 127.0.0.1 --directory public`,
     port: PORT,
     reuseExistingServer: !process.env.CI,
     timeout: 20_000,
-    cwd: ".",
   },
   projects: [
     {
