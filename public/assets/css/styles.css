@@ -46,7 +46,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: url("https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80")
+  background: url("https://www.nps.gov/npgallery/GetAsset/f2ac7ba9-b980-40f6-afdd-796b2c69d76c/proxy/hires")
     center/cover;
   opacity: 0.12;
   z-index: -2;
