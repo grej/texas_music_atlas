@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Venue Directory | Texas Music Atlas</title>
+    <meta
+      name="description"
+      content="Discover Texas songwriter and acoustic music venues across the state. Browse listening rooms, dance halls, wineries, and more."
+    />
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-wrapper">
+        <a class="brand" href="/events/">
+          <span>🎸</span>
+          Texas Music Atlas
+        </a>
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a href="/events/">Festivals</a>
+          <a href="/venues/" aria-current="page">Venues</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="directory-header">
+        <h1>Texas Music Venues Directory</h1>
+        <p class="muted">
+          Explore listening rooms, dance halls, wineries, and other venues featuring regular songwriter series and acoustic performances across Texas.
+        </p>
+        <noscript>You need JavaScript enabled to use the venue directory.</noscript>
+      </section>
+
+      <section>
+        <div class="filters" role="search">
+          <div class="search-field">
+            <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24">
+              <path
+                fill="currentColor"
+                d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5Zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14Z"
+              />
+            </svg>
+            <label class="sr-only" for="search">Search venues</label>
+            <input id="search" type="search" placeholder="Search by venue, city, or description" autocomplete="off" />
+          </div>
+
+          <div class="select">
+            <label class="sr-only" for="city-filter">Filter by city</label>
+            <select id="city-filter">
+              <option value="all" selected>All cities</option>
+            </select>
+          </div>
+
+          <div class="select">
+            <label class="sr-only" for="type-filter">Filter by type</label>
+            <select id="type-filter">
+              <option value="all" selected>All types</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <section class="list-view" id="list-view" aria-live="polite" data-visible="true"></section>
+
+      <footer class="footer">
+        Directory powered by <code>data/texas-music-venues.json</code> (licensed CC BY 4.0).
+        Want to get your venue listed? Email <a href="mailto:venues@texasmusicatlas.com">venues@texasmusicatlas.com</a> or contribute on <a href="https://github.com/grej/texas_music_atlas" target="_blank" rel="noopener noreferrer">GitHub</a>.
+      </footer>
+    </main>
+
+    <script type="module" src="../assets/js/venues-page.js"></script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ce86fe7318645c9a161ef2567670cfa"}'></script><!-- End Cloudflare Web Analytics -->
+  </body>
+</html>

@@ -74,8 +74,8 @@ test.describe("Directory interactions", () => {
     await Promise.all([page.waitForLoadState("domcontentloaded"), aboutLink.click()]);
     await expect(page).toHaveURL(/\/about\/$/);
 
-    const directoryLink = page.getByRole("link", { name: "Directory" });
-    await Promise.all([page.waitForLoadState("domcontentloaded"), directoryLink.click()]);
+    const festivalsLink = page.getByRole("link", { name: "Festivals" });
+    await Promise.all([page.waitForLoadState("domcontentloaded"), festivalsLink.click()]);
     await expect(page).toHaveURL(/\/events\/$/);
   });
 });

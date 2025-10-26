@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Venue Detail | Texas Music Atlas</title>
+    <meta
+      name="description"
+      content="Explore a specific Texas music venue with address, schedule info, cost notes, and quick links."
+    />
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav-wrapper">
+        <a class="brand" href="/events/">
+          <span>🎸</span>
+          Texas Music Atlas
+        </a>
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a href="/events/">Festivals</a>
+          <a href="/venues/">Venues</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <a class="back-link" href="./">&larr; Back to venues</a>
+      <article class="detail-hero" id="detail-hero">
+        <h1 id="venue-name">Loading venue...</h1>
+        <p class="muted" id="venue-description"></p>
+        <div class="meta-grid">
+          <div class="meta-item">
+            <span>Location</span>
+            <strong id="venue-location">Loading location</strong>
+          </div>
+          <div class="meta-item">
+            <span>Type</span>
+            <strong id="venue-type">—</strong>
+          </div>
+        </div>
+        <div class="detail-links" id="venue-links"></div>
+      </article>
+
+      <section class="detail-content">
+        <article class="detail-card">
+          <h2>Venue overview</h2>
+          <p id="venue-overview">
+            This view loads full venue details once the JSON data finishes loading. If nothing appears, verify the slug in the URL hash.
+          </p>
+        </article>
+
+        <div class="detail-grid">
+          <div class="detail-grid-item">
+            <span>Venue name</span>
+            <strong id="venue-venue-name">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>Address</span>
+            <strong id="venue-address">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>City</span>
+            <strong id="venue-city">—</strong>
+          </div>
+          <div class="detail-grid-item">
+            <span>Cost notes</span>
+            <strong id="venue-cost">—</strong>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        Want to get your venue listed? Email <a href="mailto:venues@texasmusicatlas.com">venues@texasmusicatlas.com</a> or contribute on <a href="https://github.com/grej/texas_music_atlas" target="_blank" rel="noopener noreferrer">GitHub</a>.
+      </footer>
+    </main>
+
+    <script type="module" src="../assets/js/venue-detail.js"></script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ce86fe7318645c9a161ef2567670cfa"}'></script><!-- End Cloudflare Web Analytics -->
+  </body>
+</html>

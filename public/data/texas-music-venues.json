@@ -1,0 +1,359 @@
+{
+  "generated_at": "2025-10-26",
+  "timezone": "America/Chicago",
+  "scope": "Texas songwriter and acoustic music venues with regular series or significant historical relevance",
+  "venues": [
+    {
+      "name": "Bell Springs Winery & Brewery Live Music",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Bell Springs Winery & Brewery",
+          "address": "3700 Bell Springs Rd, Dripping Springs, TX 78620",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3700+Bell+Springs+Rd%2C+Dripping+Springs%2C+TX+78620",
+          "website_url": "https://www.bellsprings.co/",
+          "description": "Winery and brewery with relaxed atmosphere, live music on weekends, and scenic Hill Country grounds. Full food menu available on weekends.",
+          "cost_notes": "No cover; wine/beer tastings and food available for purchase."
+        }
+      ],
+      "tags": [
+        "winery",
+        "brewery",
+        "dripping_springs"
+      ]
+    },
+    {
+      "name": "Ghost Note Brewing Live Music Series",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Ghost Note Brewing",
+          "address": "23663 Ranch Rd 12, Dripping Springs, TX 78620",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23663+Ranch+Rd+12%2C+Dripping+Springs%2C+TX+78620",
+          "website_url": "https://www.ghostnotebrewing.com/",
+          "description": "Hill Country brewery with free live music on outdoor stage under the oaks most Fridays through Sundays. Family and pet-friendly beer garden with food trucks.",
+          "cost_notes": "Free admission; donations accepted at door. Check schedule as shows are weather-permitting."
+        }
+      ],
+      "tags": [
+        "brewery",
+        "outdoor",
+        "dripping_springs"
+      ]
+    },
+    {
+      "name": "Mercer Dancehall",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Mercer Dancehall",
+          "address": "111 Mercer St, Dripping Springs, TX 78620",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=111+Mercer+St%2C+Dripping+Springs%2C+TX+78620",
+          "website_url": "https://www.mercerdancehall.com/",
+          "description": "Historic dance hall in Dripping Springs featuring live music and special events. Traditional Texas dancehall atmosphere in the heart of Hill Country.",
+          "cost_notes": "Ticketed; pricing varies by event."
+        }
+      ],
+      "tags": [
+        "dance_hall",
+        "dripping_springs"
+      ]
+    },
+    {
+      "name": "Sidecar Tasting Room Live Music",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Dripping Springs, TX",
+          "venue_name": "Sidecar Tasting Room",
+          "address": "501 Old Fitzhugh Rd, Dripping Springs, TX 78620",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=501+Old+Fitzhugh+Rd%2C+Dripping+Springs%2C+TX+78620",
+          "website_url": "https://www.sidecartastingroom.com/",
+          "description": "Prohibition-era themed wine and beer tasting room in downtown Dripping Springs, featuring weekly live music and entertainment in cozy indoor and outdoor patio spaces.",
+          "cost_notes": "No cover; wine and beer available for purchase."
+        }
+      ],
+      "tags": [
+        "winery",
+        "dripping_springs"
+      ]
+    },
+    {
+      "name": "Crossroads Saloon & Steakhouse",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fredericksburg, TX",
+          "venue_name": "Crossroads Saloon & Steakhouse",
+          "address": "106 S Adams St, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=106+S+Adams+St%2C+Fredericksburg%2C+TX+78624",
+          "website_url": "https://www.crossroads-texas.com/",
+          "description": "Texas Hill Country saloon and steakhouse with dance floor and live music on weekends. Full bar and restaurant with regular dancing.",
+          "cost_notes": "No cover; full menu available."
+        }
+      ],
+      "tags": [
+        "saloon",
+        "fredericksburg",
+        "dance_floor"
+      ]
+    },
+    {
+      "name": "Michael Ros Winery Acoustic Sessions",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fredericksburg, TX",
+          "venue_name": "Michael Ros Winery",
+          "address": "10931 E US Hwy 290, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10931+E+US+Hwy+290%2C+Fredericksburg%2C+TX+78624",
+          "website_url": "https://michaelroswinery.com/",
+          "description": "Family-owned boutique winery with cozy acoustic sessions on Thursdays and Saturdays. Features country and acoustic artists in an intimate, 38-acre estate setting with Italian-inspired tasting room.",
+          "cost_notes": "No cover; wine tastings and food pairings available."
+        }
+      ],
+      "tags": [
+        "winery",
+        "fredericksburg",
+        "acoustic"
+      ]
+    },
+    {
+      "name": "The Club at Barons Creekside",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fredericksburg, TX",
+          "venue_name": "The Club at Barons Creekside",
+          "address": "710 S Washington St, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=710+S+Washington+St%2C+Fredericksburg%2C+TX+78624",
+          "website_url": "https://www.baronscreekside.com/the-club.html",
+          "description": "Wine bar, bistro, and live music venue open Thu/Fri/Sat evenings. Features bluesy, jazzy, Americana, and singer-songwriter performances with large covered outdoor seating, fire pit, and weekly specials.",
+          "cost_notes": "No cover; bistro menu $14-$35. Live music 7pm-10pm."
+        }
+      ],
+      "tags": [
+        "wine_bar",
+        "fredericksburg",
+        "singer_songwriter"
+      ]
+    },
+    {
+      "name": "John T. Floore's Country Store",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Helotes, TX",
+          "venue_name": "John T. Floore's Country Store",
+          "address": "14492 Old Bandera Rd, Helotes, TX 78023",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=14492+Old+Bandera+Rd%2C+Helotes%2C+TX+78023",
+          "website_url": "https://liveatfloores.com/",
+          "description": "Legendary dance hall and café opened in 1942, historic venue for country and Americana. Has hosted Willie Nelson, Patsy Cline, Bob Dylan, and countless Texas artists.",
+          "cost_notes": "Ticketed; pricing varies by artist."
+        }
+      ],
+      "tags": [
+        "dance_hall",
+        "historic_venue",
+        "helotes"
+      ]
+    },
+    {
+      "name": "Gruene Grove & The Speakeasy",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "New Braunfels, TX",
+          "venue_name": "Gruene Grove",
+          "address": "1601 Hunter Rd, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1601+Hunter+Rd%2C+New+Braunfels%2C+TX+78130",
+          "website_url": "https://www.gruenegrove.com/",
+          "description": "Open-air venue in historic Gruene with spacious patio and craft cocktails. Regular local and regional artists. Thursday nights feature The Speakeasy, an intimate songwriter showcase.",
+          "cost_notes": "Free; food and drinks available for purchase."
+        }
+      ],
+      "tags": [
+        "outdoor",
+        "new_braunfels",
+        "gruene",
+        "singer_songwriter"
+      ]
+    },
+    {
+      "name": "Gruene Hall",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "New Braunfels, TX",
+          "venue_name": "Gruene Hall",
+          "address": "1281 Gruene Rd, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1281+Gruene+Rd%2C+New+Braunfels%2C+TX+78130",
+          "website_url": "https://gruenehall.com/",
+          "description": "Texas' oldest continually operating dance hall, built in 1878. Legendary venue that's hosted George Strait, Willie Nelson, Lyle Lovett, and countless Texas music icons. Daily live music in historic open-air setting.",
+          "cost_notes": "Mix of free shows and ticketed concerts; check calendar."
+        }
+      ],
+      "tags": [
+        "dance_hall",
+        "historic_venue",
+        "new_braunfels",
+        "gruene"
+      ]
+    },
+    {
+      "name": "Pour Haus Patio Bar",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "New Braunfels, TX",
+          "venue_name": "Pour Haus Patio Bar",
+          "address": "295 W San Antonio St, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=295+W+San+Antonio+St%2C+New+Braunfels%2C+TX+78130",
+          "website_url": "https://www.pourhausnbtx.com/",
+          "description": "Downtown courtyard bar with live music every night. Relaxed atmosphere, daily drink specials, and diverse lineup of local performers.",
+          "cost_notes": "Free; full bar with daily specials."
+        }
+      ],
+      "tags": [
+        "bar",
+        "new_braunfels",
+        "daily_music"
+      ]
+    },
+    {
+      "name": "Red Bird Listening Room",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "New Braunfels, TX",
+          "venue_name": "Red Bird Listening Room",
+          "address": "1260 Elliot Knox Blvd, New Braunfels, TX 78130",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1260+Elliot+Knox+Blvd%2C+New+Braunfels%2C+TX+78130",
+          "website_url": "https://www.redbirdlisteningroom.com/",
+          "description": "Intimate listening room dedicated to singer-songwriters. Thursday Songwriter Nights showcase original music in attentive, no-frills setting. Connection between artist and audience is the focus.",
+          "cost_notes": "Ticketed; pricing varies by artist."
+        }
+      ],
+      "tags": [
+        "listening_room",
+        "new_braunfels",
+        "singer_songwriter"
+      ]
+    },
+    {
+      "name": "502 Bar Songwriter Showcases",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "San Antonio, TX",
+          "venue_name": "502 Bar",
+          "address": "502 Embassy Oaks, San Antonio, TX 78216",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=502+Embassy+Oaks%2C+San+Antonio%2C+TX+78216",
+          "website_url": "https://502bar.com/",
+          "description": "North Central music venue featuring touring singer-songwriters on weekends, with open mic on Sundays. Craft beer selection and quality sound system.",
+          "cost_notes": "Cover varies by show; Sunday open mic free."
+        }
+      ],
+      "tags": [
+        "bar",
+        "san_antonio",
+        "open_mic"
+      ]
+    },
+    {
+      "name": "Sam's Burger Joint Singer-Songwriter Series",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "San Antonio, TX",
+          "venue_name": "Sam's Burger Joint",
+          "address": "330 E. Grayson St, San Antonio, TX 78215",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=330+E.+Grayson+St%2C+San+Antonio%2C+TX+78215",
+          "website_url": "https://samsburgerjoint.com/",
+          "description": "Premier San Antonio listening room near the Pearl, featuring touring singer-songwriters and local talent. Weekly Live and Local series showcases emerging artists.",
+          "cost_notes": "Ticketed; pricing varies by artist."
+        }
+      ],
+      "tags": [
+        "listening_room",
+        "san_antonio"
+      ]
+    },
+    {
+      "name": "The Cove Singer-Songwriter Nights",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "San Antonio, TX",
+          "venue_name": "The Cove",
+          "address": "606 W. Cypress St, San Antonio, TX 78212",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=606+W.+Cypress+St%2C+San+Antonio%2C+TX+78212",
+          "website_url": "https://thecove.us/",
+          "description": "Casual spot with live music five nights a week, ranging from singer-songwriter performances to garage rock, jazz, and monthly blues jam. Food-focused venue with outdoor seating.",
+          "cost_notes": "Free; donations appreciated."
+        }
+      ],
+      "tags": [
+        "restaurant",
+        "san_antonio",
+        "weekly_series"
+      ]
+    },
+    {
+      "name": "Tantra Coffee Songwriter Series",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "San Marcos, TX",
+          "venue_name": "Tantra Coffee",
+          "address": "212 N LBJ Dr, San Marcos, TX 78666",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=212+N+LBJ+Dr%2C+San+Marcos%2C+TX+78666",
+          "website_url": "https://www.tantrasanmarcos.com/",
+          "description": "Arts hub coffee shop with outdoor patio. Features Bluegrass Wednesdays and Singer-Songwriter Sundays. Coffee art, whole-leaf teas, and creative community atmosphere.",
+          "cost_notes": "Free; coffee and food available for purchase."
+        }
+      ],
+      "tags": [
+        "coffee_shop",
+        "san_marcos",
+        "bluegrass",
+        "singer_songwriter"
+      ]
+    }
+  ]
+}
