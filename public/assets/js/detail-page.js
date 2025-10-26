@@ -1,4 +1,4 @@
-import { buildFestivalMap, formatDateRange, isMeaningfulUrl, loadFestivals, summarizeInstances } from "./data.js";
+import { buildFestivalMap, formatDateRange, instanceToICS, isMeaningfulUrl, loadFestivals, summarizeInstances } from "./data.js";
 
 const pageState = {
   map: null,
@@ -200,6 +200,19 @@ function renderLinkButtons(instance) {
   }
   if (isMeaningfulUrl(instance.mapsUrl)) {
     links.push(`<a href="${instance.mapsUrl}" target="_blank" rel="noopener noreferrer">View on maps</a>`);
+  }
+  const icsResult = instanceToICS({
+    name: pageState.festival?.name || instance.festivalName,
+    start_date: instance.startDate,
+    end_date: instance.endDate,
+    address: instance.address,
+    website_url: instance.websiteUrl,
+    description: instance.description,
+  });
+  if (icsResult.status === "ready") {
+    links.push(`<a href="${icsResult.href}" download="${pageState.festival?.slug || instance.slug || "festival"}.ics">Add to calendar</a>`);
+  } else if (icsResult.status === "pending") {
+    links.push(`<span class="btn-disabled" aria-disabled="true" title="${icsResult.reason}">Add to calendar (TBD)</span>`);
   }
   return links.join("");
 }

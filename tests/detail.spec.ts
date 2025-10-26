@@ -5,6 +5,7 @@ const DRIPPING_SLUG = "dripping-springs-songwriters-festival";
 test.describe("Festival detail page", () => {
   test("renders slugged festival with multiple instances", async ({ page }) => {
     page.on("console", (msg) => console.log(`[detail:${msg.type()}] ${msg.text()}`));
+    page.on('pageerror', (err) => console.log(`[detail:pageerror] ${err.message}`));
     await page.goto(`/events/event.html#${DRIPPING_SLUG}`);
 
     await expect(page.locator("#festival-name")).toHaveText("Dripping Springs Songwriters Festival");

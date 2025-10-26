@@ -4,6 +4,240 @@
   "scope": "Texas singer-songwriter-focused & adjacent festivals (remainder of 2025 and all of 2026), incl. select college-hosted showcases",
   "events": [
     {
+      "name": "Jenni Dale Lord Songwriter Series at William Chris Vineyards",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-22",
+          "end_date": "2025-11-22",
+          "city": "Hye, TX",
+          "venue_name": "William Chris Vineyards",
+          "address": "2242 FM 1329, Hye, TX 78636",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2242+FM+1329%2C+Hye%2C+TX+78636",
+          "website_url": "https://williamchriswines.com/live-music-calendar/",
+          "description": "Intimate acoustic songwriter sets by Texas Americana artist Jenni Dale Lord, with Hill Country wine pairings. Unplugged, in-the-round style.",
+          "cost_notes": "No cover; wine tasting recommended (~$25–$35). Reservations via events page."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-11-23",
+          "end_date": "2025-11-23",
+          "city": "Hye, TX",
+          "venue_name": "William Chris Vineyards",
+          "address": "2242 FM 1329, Hye, TX 78636",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2242+FM+1329%2C+Hye%2C+TX+78636",
+          "website_url": "https://williamchriswines.com/live-music-calendar/",
+          "description": "Intimate acoustic songwriter sets by Texas Americana artist Jenni Dale Lord, with Hill Country wine pairings. Unplugged, in-the-round style.",
+          "cost_notes": "No cover; wine tasting recommended (~$25–$35). Reservations via events page."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-12-20",
+          "end_date": "2025-12-20",
+          "city": "Hye, TX",
+          "venue_name": "William Chris Vineyards",
+          "address": "2242 FM 1329, Hye, TX 78636",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2242+FM+1329%2C+Hye%2C+TX+78636",
+          "website_url": "https://williamchriswines.com/live-music-calendar/",
+          "description": "Intimate acoustic songwriter sets by Texas Americana artist Jenni Dale Lord, with Hill Country wine pairings. Unplugged, in-the-round style.",
+          "cost_notes": "No cover; wine tasting recommended (~$25–$35). Reservations via events page."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-12-21",
+          "end_date": "2025-12-21",
+          "city": "Hye, TX",
+          "venue_name": "William Chris Vineyards",
+          "address": "2242 FM 1329, Hye, TX 78636",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2242+FM+1329%2C+Hye%2C+TX+78636",
+          "website_url": "https://williamchriswines.com/live-music-calendar/",
+          "description": "Intimate acoustic songwriter sets by Texas Americana artist Jenni Dale Lord, with Hill Country wine pairings. Unplugged, in-the-round style.",
+          "cost_notes": "No cover; wine tasting recommended (~$25–$35). Reservations via events page."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Hye, TX",
+          "venue_name": "William Chris Vineyards",
+          "address": "2242 FM 1329, Hye, TX 78636",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2242+FM+1329%2C+Hye%2C+TX+78636",
+          "website_url": "https://williamchriswines.com/live-music-calendar/",
+          "description": "Recurring Q4 songwriter series; monitor for 2026 dates.",
+          "cost_notes": "Expected no cover + tasting; TBA."
+        }
+      ],
+      "tags": ["winery", "songwriter_series"]
+    },
+    {
+      "name": "Acoustic Music Afternoons at Bernhardt Winery",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-01",
+          "end_date": "2025-11-01",
+          "city": "Plantersville, TX",
+          "venue_name": "Bernhardt Winery",
+          "address": "17200 FM 2920, Plantersville, TX 77363",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17200+FM+2920%2C+Plantersville%2C+TX+77363",
+          "website_url": "https://www.bernhardtwinery.com/tc-events/manny-garcia-4/",
+          "description": "Local singer-songwriter acoustic set by Manny Garcia on the vineyard lawn—mix of originals and covers, relaxed Hill Country vibes.",
+          "cost_notes": "Free for winery customers (tastings ~$15); reservations recommended."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-11-08",
+          "end_date": "2025-11-08",
+          "city": "Plantersville, TX",
+          "venue_name": "Bernhardt Winery",
+          "address": "17200 FM 2920, Plantersville, TX 77363",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17200+FM+2920%2C+Plantersville%2C+TX+77363",
+          "website_url": "https://www.bernhardtwinery.com/tc-events/frank-martin-gilligan-2/",
+          "description": "Local singer-songwriter acoustic set by Frank Martin Gilligan on the vineyard lawn—mix of originals and covers, relaxed Hill Country vibes.",
+          "cost_notes": "Free for winery customers (tastings ~$15); reservations recommended."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-11-22",
+          "end_date": "2025-11-22",
+          "city": "Plantersville, TX",
+          "venue_name": "Bernhardt Winery",
+          "address": "17200 FM 2920, Plantersville, TX 77363",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17200+FM+2920%2C+Plantersville%2C+TX+77363",
+          "website_url": "https://www.bernhardtwinery.com/tc-events/jenna-lynn/",
+          "description": "Local singer-songwriter acoustic set by Jenna Lynn on the vineyard lawn—mix of originals and covers, relaxed Hill Country vibes.",
+          "cost_notes": "Free for winery customers (tastings ~$15); reservations recommended."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-12-06",
+          "end_date": "2025-12-06",
+          "city": "Plantersville, TX",
+          "venue_name": "Bernhardt Winery",
+          "address": "17200 FM 2920, Plantersville, TX 77363",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17200+FM+2920%2C+Plantersville%2C+TX+77363",
+          "website_url": "https://www.bernhardtwinery.com/tc-events/jacob-asbill/",
+          "description": "Local singer-songwriter acoustic set by Jacob Asbill on the vineyard lawn—mix of originals and covers, relaxed Hill Country vibes.",
+          "cost_notes": "Free for winery customers (tastings ~$15); reservations recommended."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Plantersville, TX",
+          "venue_name": "Bernhardt Winery",
+          "address": "17200 FM 2920, Plantersville, TX 77363",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17200+FM+2920%2C+Plantersville%2C+TX+77363",
+          "website_url": "https://www.bernhardtwinery.com/acoustic-music-saturdays/",
+          "description": "Recurring Saturday acoustic series; check monthly for 2026 lineup.",
+          "cost_notes": "Free + tastings; TBA."
+        }
+      ],
+      "tags": ["winery", "acoustic_series"]
+    },
+    {
+      "name": "Live Acoustic Music at BarnHill Vineyards",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-15",
+          "end_date": "2025-11-15",
+          "city": "Anna, TX",
+          "venue_name": "BarnHill Vineyards",
+          "address": "2635 FM 455 E, Anna, TX 75409",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2635+FM+455+E%2C+Anna%2C+TX+75409",
+          "website_url": "https://www.eventbrite.com/e/wine-tasting-and-live-acoustic-music-by-dave-semans-anna-tx-tickets-1612775377569",
+          "description": "Acoustic set by North Texas singer-songwriter Dave Semans during daytime wine tastings—peaceful vineyard escape with originals and covers.",
+          "cost_notes": "$20 entry (includes tasting flight); tickets via Eventbrite."
+        },
+        {
+          "year": 2025,
+          "start_date": "2025-12-13",
+          "end_date": "2025-12-13",
+          "city": "Anna, TX",
+          "venue_name": "BarnHill Vineyards",
+          "address": "2635 FM 455 E, Anna, TX 75409",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2635+FM+455+E%2C+Anna%2C+TX+75409",
+          "website_url": "https://www.eventbrite.com/e/wine-tasting-and-live-acoustic-music-by-lance-list-anna-tx-tickets-1693971447199",
+          "description": "Acoustic set by Lance List during daytime wine tastings—peaceful vineyard escape with originals and covers.",
+          "cost_notes": "$20 entry (includes tasting flight); tickets via Eventbrite."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Anna, TX",
+          "venue_name": "BarnHill Vineyards",
+          "address": "2635 FM 455 E, Anna, TX 75409",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2635+FM+455+E%2C+Anna%2C+TX+75409",
+          "website_url": "https://www.barnhillvineyards.com/events",
+          "description": "Recurring Spring/Fall acoustic series; monitor Eventbrite for 2026.",
+          "cost_notes": "Expected $20+; TBA."
+        }
+      ],
+      "tags": ["winery", "acoustic"]
+    },
+    {
+      "name": "Texas Saturday Live Music at Covington Cellars Texas Hill Country Estate",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-29",
+          "end_date": "2025-11-29",
+          "city": "Bryan, TX",
+          "venue_name": "Covington Cellars Texas Hill Country Estate",
+          "address": "1100 S College Ave, Bryan, TX 77802",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1100+S+College+Ave%2C+Bryan%2C+TX+77802",
+          "website_url": "https://www.covingtoncellars.com/winery-events/nalani-caballero-november-29-2025",
+          "description": "Acoustic live music featuring Texas singer-songwriter Nalani Caballero—unplugged set with wine flights in a Hill Country-inspired estate.",
+          "cost_notes": "No cover; wine by the glass (~$10–15). Reservations suggested."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Bryan, TX",
+          "venue_name": "Covington Cellars Texas Hill Country Estate",
+          "address": "1100 S College Ave, Bryan, TX 77802",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1100+S+College+Ave%2C+Bryan%2C+TX+77802",
+          "website_url": "https://www.covingtoncellars.com/winery-events",
+          "description": "Recurring Saturday acoustic series; expect similar Texas songwriter lineup.",
+          "cost_notes": "TBA."
+        }
+      ],
+      "tags": ["winery", "acoustic_series"]
+    },
+    {
+      "name": "Live Music at Texas Heritage Vineyard",
+      "instances": [
+        {
+          "year": 2025,
+          "start_date": "2025-11-21",
+          "end_date": "2025-11-21",
+          "city": "Fredericksburg, TX",
+          "venue_name": "Texas Heritage Vineyard",
+          "address": "3245 E US Highway 290, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3245+E+US+Highway+290%2C+Fredericksburg%2C+TX+78624",
+          "website_url": "https://www.visitfredericksburgtx.com/event/live-music-by-michael-hearne/69315/",
+          "description": "Acoustic live music by Texas songwriter Michael Hearne—intimate vineyard performance with Hill Country wines.",
+          "cost_notes": "No cover; tastings available (~$15–20)."
+        },
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Fredericksburg, TX",
+          "venue_name": "Texas Heritage Vineyard",
+          "address": "3245 E US Highway 290, Fredericksburg, TX 78624",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3245+E+US+Highway+290%2C+Fredericksburg%2C+TX+78624",
+          "website_url": "https://www.texasheritagevineyard.com/events",
+          "description": "Recurring live music series; monitor for 2026 songwriter dates.",
+          "cost_notes": "TBA."
+        }
+      ],
+      "tags": ["winery", "acoustic"]
+    },
+    {
       "name": "Dripping Springs Songwriters Festival",
       "instances": [
         {

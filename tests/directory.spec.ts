@@ -5,6 +5,7 @@ const DRIPPING_SLUG = "dripping-springs-songwriters-festival";
 test.describe("Directory interactions", () => {
   test("supports searching, filtering, and calendar exploration", async ({ page }) => {
     page.on("console", (msg) => console.log(`[directory:${msg.type()}] ${msg.text()}`));
+    page.on('pageerror', (err) => console.log(`[directory:pageerror] ${err.message}`));
     await page.goto("/");
     await expect(page).toHaveURL(/\/events\/$/);
 

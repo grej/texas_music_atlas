@@ -3,6 +3,7 @@ import {
   formatCity,
   formatDate,
   formatDateRange,
+  instanceToICS,
   isMeaningfulUrl,
   isUpcoming,
   loadFestivals,
@@ -183,6 +184,14 @@ function renderList() {
         isMeaningfulUrl(instance.mapsUrl) && instance.mapsUrl !== "TBA"
           ? `<a href="${instance.mapsUrl}" target="_blank" rel="noopener noreferrer">Open map</a>`
           : "";
+      const icsResult = instanceToICS({
+        name: instance.festivalName,
+        start_date: instance.startDate,
+        end_date: instance.endDate,
+        address: instance.address,
+        website_url: instance.websiteUrl,
+        description: instance.instanceDescription,
+      });
 
       return `
         <article class="card">
@@ -201,6 +210,13 @@ function renderList() {
             ${
               isMeaningfulUrl(instance.websiteUrl)
                 ? `<a href="${instance.websiteUrl}" target="_blank" rel="noopener noreferrer">Visit website</a>`
+                : ""
+            }
+            ${
+              icsResult.status === "ready"
+                ? `<a href="${icsResult.href}" download="${instance.slug || "festival"}-${instance.year}.ics">Add to calendar</a>`
+                : icsResult.status === "pending"
+                ? `<span class="btn-disabled" aria-disabled="true" title="${icsResult.reason}">Add to calendar (TBD)</span>`
                 : ""
             }
             ${mapLink}
@@ -415,8 +431,16 @@ function showDayDetail(dateKey) {
   state.selectedDate = dateKey;
   heading.textContent = formatDate(dateKey);
   list.innerHTML = instances
-    .map(
-      (instance) => `
+    .map((instance) => {
+      const icsResult = instanceToICS({
+        name: instance.festivalName,
+        start_date: instance.startDate,
+        end_date: instance.endDate,
+        address: instance.address,
+        website_url: instance.websiteUrl,
+        description: instance.instanceDescription,
+      });
+      return `
       <li>
         <strong>${instance.festivalName}</strong>
         <span class="muted">${formatDateRange(instance.startDate, instance.endDate)} · ${formatCity(instance.city)}</span>
@@ -428,14 +452,21 @@ function showDayDetail(dateKey) {
               : ""
           }
           ${
+            icsResult.status === "ready"
+              ? `<a href="${icsResult.href}" download="${instance.slug || "festival"}-${instance.year}.ics">Add to calendar</a>`
+              : icsResult.status === "pending"
+              ? `<span class="btn-disabled" aria-disabled="true" title="${icsResult.reason}">Add to calendar (TBD)</span>`
+              : ""
+          }
+          ${
             isMeaningfulUrl(instance.mapsUrl)
               ? `<a href="${instance.mapsUrl}" target="_blank" rel="noopener noreferrer">Open map</a>`
               : ""
           }
         </div>
       </li>
-    `
-    )
+    `;
+    })
     .join("");
 
   detailPanel.hidden = false;

@@ -197,3 +197,51 @@ export function isMeaningfulUrl(url) {
     return false;
   }
 }
+
+export function instanceToICS({ name, start_date, end_date, address, website_url, description }) {
+  if (!name || !start_date) {
+    return { status: "invalid" };
+  }
+
+  const normalizedStart = start_date.toUpperCase();
+  if (normalizedStart === "TBD" || normalizedStart === "TBA") {
+    return { status: "pending", reason: "Dates TBD" };
+  }
+
+  const escape = (value) => (value || "").replace(/([,;])/g, "\\$1").replace(/\r?\n/g, "\\n");
+  const formattedStart = start_date.replace(/-/g, "");
+  const normalizedEnd = (end_date || "").toUpperCase();
+  const formattedEnd =
+    normalizedEnd && normalizedEnd !== "TBD" && normalizedEnd !== "TBA"
+      ? end_date.replace(/-/g, "")
+      : formattedStart;
+
+  const lines = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//Texas Music Atlas//EN",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    "BEGIN:VEVENT",
+    `SUMMARY:${escape(name)}`,
+    `DTSTART;VALUE=DATE:${formattedStart}`,
+    `DTEND;VALUE=DATE:${formattedEnd}`,
+  ];
+
+  if (website_url) {
+    lines.push(`URL:${escape(website_url)}`);
+  }
+  if (address) {
+    lines.push(`LOCATION:${escape(address)}`);
+  }
+  if (description) {
+    lines.push(`DESCRIPTION:${escape(description)}`);
+  }
+
+  lines.push("END:VEVENT", "END:VCALENDAR");
+
+  return {
+    status: "ready",
+    href: `data:text/calendar;charset=utf-8,${encodeURIComponent(lines.join("\r\n"))}`,
+  };
+}
