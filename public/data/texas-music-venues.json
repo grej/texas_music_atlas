@@ -4,6 +4,53 @@
   "scope": "Texas songwriter and acoustic music venues with regular series or significant historical relevance",
   "venues": [
     {
+      "name": "Jester King Brewery Live Music",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Austin, TX",
+          "venue_name": "Jester King Brewery",
+          "address": "13187 Fitzhugh Rd, Austin, TX 78736",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=13187+Fitzhugh+Rd%2C+Austin%2C+TX+78736",
+          "website_url": "https://jesterkingbrewery.com/",
+          "description": "Award-winning farmhouse brewery on 165-acre ranch in Texas Hill Country. Features live music every weekend with indie, country/Americana, and folk artists. Wood-fired pizza, craft beer, goat farm, and family-friendly outdoor spaces.",
+          "cost_notes": "Free admission; food and drinks available for purchase. Live music typically Saturday and Sunday afternoons."
+        }
+      ],
+      "tags": [
+        "brewery",
+        "austin",
+        "hill_country",
+        "outdoor",
+        "family_friendly"
+      ]
+    },
+    {
+      "name": "The Saxon Pub",
+      "instances": [
+        {
+          "year": 2026,
+          "start_date": "TBD",
+          "end_date": "TBD",
+          "city": "Austin, TX",
+          "venue_name": "The Saxon Pub",
+          "address": "1320 S Lamar Blvd, Austin, TX 78704",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1320+S+Lamar+Blvd%2C+Austin%2C+TX+78704",
+          "website_url": "https://thesaxonpub.com/",
+          "description": "Iconic Austin listening room since 1990, hosting over 22,000 performances. Known for intimate atmosphere that Kris Kristofferson likened to 'playing in his own living room.' Award-winning sound, live music 7 nights a week featuring blues, country, rock, and singer-songwriters.",
+          "cost_notes": "Free weekday happy hour shows; $5-10 cover for evening and weekend shows. 21+ venue."
+        }
+      ],
+      "tags": [
+        "listening_room",
+        "austin",
+        "iconic_venue",
+        "daily_music"
+      ]
+    },
+    {
       "name": "Bell Springs Winery & Brewery Live Music",
       "instances": [
         {
